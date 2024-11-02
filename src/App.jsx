@@ -13,9 +13,9 @@ function App() {
         flex
         flex-col
         px-8
-        md:px-64
-        lg:px-64
-        gap-y-8
+        lg:px-80
+        xl:px-80
+        gap-y-16
         min-h-screen
       ">
         <Introduction />

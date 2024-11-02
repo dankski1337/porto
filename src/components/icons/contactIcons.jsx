@@ -12,7 +12,7 @@ export const GmailIcon = () => {
                 hover:text-gray-800
             "
         >
-            <FaEnvelope className="text-3xl" />
+            <FaEnvelope className="text-3xl"/>
         </a>
     )
 };

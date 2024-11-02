@@ -3,7 +3,7 @@ import {
     LinkedinIcon,
     InstagramIcon,
     GithubIcon
-} from "./icons/contact-icons";
+} from "./icons/contactIcons";
 
 export const Footer = () => {
     return (
