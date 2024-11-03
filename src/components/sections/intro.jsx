@@ -1,3 +1,5 @@
+import photo from '../../assets/photo.png';
+
 export const Introduction = () => {
     return (
         <div className="
@@ -14,8 +16,8 @@ export const Introduction = () => {
         ">
             <div className="flex items-center justify-center">
                 <img 
-                className="rounded-full size-72 shadow-lg aspect-square"   
-                src="https://via.placeholder.com/150" alt="Me" />
+                className="rounded-b-full object-contain"   
+                src={photo} alt="Me" />
             </div>
             <div className="flex flex-col">
                 <div className="mb-4 lg:mb-8 xl:mb-8">

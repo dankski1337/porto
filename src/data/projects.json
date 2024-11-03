@@ -1,0 +1,23 @@
+[
+    {
+        "photo": "src/assets/projects/nglindurKulon.png",
+        "title": "Website Padukuhan Nglindur Kulon",
+        "desc": "Website profile for a small village in Girisubo, Gunungkidul, Yogyakarta",
+        "techStack": ["Next.js", "Firebase"],
+        "link": "https://nglindurkulon.vercel.app/"
+    },
+    {
+        "photo": "src/assets/projects/atmaKitchen.png",
+        "title": "Atma Kitchen",
+        "desc": "Multiplatform application to order food from Atma Kitchen",
+        "techStack": ["Laravel", "React", "Flutter", "MySQL"],
+        "github": "https://github.com/MennTech/atma_kitchen_web"
+    },
+    {
+        "photo": "src/assets/projects/JogjaCar.png",
+        "title": "JogjaCar",
+        "desc": "Website to rent a car online",
+        "techStack": ["Laravel", "MySQL"],
+        "github": "https://github.com/dankski1337/JogjaCar"
+    }
+]
