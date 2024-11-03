@@ -16,7 +16,7 @@ export const Introduction = () => {
         ">
             <div className="flex items-center justify-center">
                 <img 
-                className="rounded-b-full object-contain"   
+                className="rounded-b-full object-contain"
                 src={photo} alt="Me" />
             </div>
             <div className="flex flex-col">

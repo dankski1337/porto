@@ -1,7 +1,7 @@
 /* eslint-disable react/prop-types */
 export const ProjectCard = ({ photo, title, desc, techStack, link, github }) => {
     return (
-        <div className="rounded-xl shadow-lg flex flex-col gap-y-4 overflow-hidden group">
+        <div className="bg-white rounded-xl shadow-lg flex flex-col gap-y-4 overflow-hidden group hover:border-gray-500">
             <img src={photo} alt={title} className="transition-transform group-hover:scale-110"/>
             <div className="flex flex-col flex-grow px-4 pb-4 justify-between">
                 <h3 className="text-gray-800 font-bold text-xl lg:text-2xl xl:text-2xl">

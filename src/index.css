@@ -8,4 +8,13 @@
     background-color: #ffffff;
     font-family: 'Poppins', sans-serif;
 }
+
+body {
+    background-image: url('/src/assets/city_footer.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: bottom;
+    backdrop-filter: grayscale(100%);
+    z-index: -3;
+}
   
